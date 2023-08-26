@@ -1,0 +1,7 @@
+class ooplec {
+    public static void main(String args[]){
+        System.out.println("hello");
+//taking input from command line arguments // exception raised index out of bound for args0//
+        System.out.println("first argument is"+args[0]);
+    }
+}
